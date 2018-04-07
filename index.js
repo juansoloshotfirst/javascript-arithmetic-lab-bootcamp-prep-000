@@ -17,3 +17,6 @@ divide (5.0,2.5)
 function inc(n) {
   return n +=1;
 }
+function dec(n) {
+  return n -=1;
+}

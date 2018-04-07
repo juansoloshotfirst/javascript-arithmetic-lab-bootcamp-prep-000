@@ -14,4 +14,6 @@ function divide (x,y) {
 return x / y;
 }
 divide (5.0,2.5)
-function inc(n)
+function inc(n) {
+  
+}
